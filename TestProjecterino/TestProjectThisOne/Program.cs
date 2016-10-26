@@ -13,6 +13,7 @@ namespace TestProjectThisOne
             Console.WriteLine("Type something.");
             Console.WriteLine("SOMETHIGN ELSES");
             //IM GAY
+            //I know.
         }
     }
 }
