@@ -12,8 +12,8 @@ namespace TestProjectThisOne
         {
             Console.WriteLine("Type something.");
             Console.WriteLine("SOMETHIGN ELSES");
-            //YOurE GaAyYe
-            //I know.
+            //YOurE handsome
+            //thanks you faget.
         }
     }
 }
