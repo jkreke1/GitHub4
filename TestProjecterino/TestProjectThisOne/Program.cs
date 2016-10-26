@@ -10,9 +10,7 @@ namespace TestProjectThisOne
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Type something.");
-            Console.WriteLine("SOMETHIGN ELSES");
-            Consoel.StopBeingAMedeivalSeigeEngine();
+            //OOps
         }
     }
 }
