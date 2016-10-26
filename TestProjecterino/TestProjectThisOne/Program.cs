@@ -12,7 +12,7 @@ namespace TestProjectThisOne
         {
             Console.WriteLine("Type something.");
             Console.WriteLine("SOMETHIGN ELSES");
-            //YOueu ThoUgHHT
+            Consoel.StopBeingAMedeivalSeigeEngine();
         }
     }
 }
