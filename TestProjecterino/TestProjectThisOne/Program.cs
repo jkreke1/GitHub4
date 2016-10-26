@@ -10,7 +10,7 @@ namespace TestProjectThisOne
     {
         static void Main(string[] args)
         {
-            //Come on man i worked hard on that.
+            //Fuk u
         }
     }
 }
