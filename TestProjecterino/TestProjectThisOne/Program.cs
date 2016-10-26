@@ -11,6 +11,7 @@ namespace TestProjectThisOne
         static void Main(string[] args)
         {
             Console.WriteLine("Type something.");
+            push waht fam;
         }
     }
 }
