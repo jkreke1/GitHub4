@@ -11,7 +11,8 @@ namespace TestProjectThisOne
         static void Main(string[] args)
         {
             Console.WriteLine("Type something.");
-            Console.WriteLine("SOMETHIGN ELSES")
+            Console.WriteLine("SOMETHIGN ELSES");
+            //IM GAY
         }
     }
 }
