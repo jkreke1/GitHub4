@@ -10,7 +10,9 @@ namespace TestProjectThisOne
     {
         static void Main(string[] args)
         {
-            //hey man cmon
+            Console.WriteLine("Type something.");
+            Console.WriteLine("SOMETHIGN ELSES");
+            //YOueu ThoUgHHT
         }
     }
 }
